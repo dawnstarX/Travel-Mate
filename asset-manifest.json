@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travel-Mate/static/css/main.9ee91a79.chunk.css",
+    "main.js": "/Travel-Mate/static/js/main.514261b3.chunk.js",
+    "main.js.map": "/Travel-Mate/static/js/main.514261b3.chunk.js.map",
+    "runtime-main.js": "/Travel-Mate/static/js/runtime-main.3f256add.js",
+    "runtime-main.js.map": "/Travel-Mate/static/js/runtime-main.3f256add.js.map",
+    "static/js/2.1fdbcd2d.chunk.js": "/Travel-Mate/static/js/2.1fdbcd2d.chunk.js",
+    "static/js/2.1fdbcd2d.chunk.js.map": "/Travel-Mate/static/js/2.1fdbcd2d.chunk.js.map",
+    "index.html": "/Travel-Mate/index.html",
+    "precache-manifest.3e4ca9e364455f245c5ee44285fe1124.js": "/Travel-Mate/precache-manifest.3e4ca9e364455f245c5ee44285fe1124.js",
+    "service-worker.js": "/Travel-Mate/service-worker.js",
+    "static/css/main.9ee91a79.chunk.css.map": "/Travel-Mate/static/css/main.9ee91a79.chunk.css.map",
+    "static/js/2.1fdbcd2d.chunk.js.LICENSE.txt": "/Travel-Mate/static/js/2.1fdbcd2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f256add.js",
+    "static/js/2.1fdbcd2d.chunk.js",
+    "static/css/main.9ee91a79.chunk.css",
+    "static/js/main.514261b3.chunk.js"
+  ]
+}
